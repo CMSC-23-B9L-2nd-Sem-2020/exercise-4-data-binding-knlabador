@@ -1,0 +1,36 @@
+<!-- Copyright 2018 Google Inc.
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+    http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License. -->
+
+<resources>
+    <string name="app_name">About Me</string>
+    <!-- Break paragraphs without extra spacing, by putting \n at the beginning of next line.-->
+    <string name="hello">Hello!</string>
+    <string name="name">Name</string>
+    <string name="nickname">Nickname</string>
+    <string name="age">Age</string>
+    <string name="birthday">When is your birthday?</string>
+    <string name="number">Phone number</string>
+    <string name="emailadd">What is your email address?</string>
+    <string name="course">What is your course?</string>
+    <string name="dream">When is your ultimate dream?</string>
+    <string name="crush">Who is your secret crush?</string>
+    <string name="message">What is your message for me?</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_nickname">Enter Nickname</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_birthday">Enter birthday</string>
+    <string name="enter_number">Enter Phone Number</string>
+    <string name="enter_emailadd">Enter Email Address</string>
+    <string name="enter_course">Enter Course</string>
+    <string name="enter_dream">Enter Dream</string>
+    <string name="enter_crush">Enter Name of Crush</string>
+    <string name="done">Done</string>
+</resources>
