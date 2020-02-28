@@ -17,4 +17,13 @@
 package com.example.android.aboutme
 
 // Create data class MyName for the name and nickname here.
-data class MyName(var name: String = "", var nickname: String = "")
+data class MyName(var name: String = "",
+                var nickname: String = "",
+                var age: Int = 0,
+                var birthday: String = "",
+                var course: String = "",
+                var number: String = "",
+                var color: String = "",
+                var dream: String = "",
+                var crush: String = "",
+                var message: String = "")
