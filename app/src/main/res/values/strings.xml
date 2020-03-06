@@ -32,5 +32,5 @@ limitations under the License. -->
     <string name="enter_dream">Enter Dream</string>
     <string name="enter_crush">Enter Name of Crush</string>
     <string name="done">Done</string>
-    <string name="thank_you">/nThank you for answering!</string>
+    <string name="thank_you">Thank you for answering!</string>
 </resources>

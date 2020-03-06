@@ -65,6 +65,7 @@ class MainActivity : AppCompatActivity() {
             myName?.message = messageEdit.text.toString()
             invalidateAll()
 
+            helloText.visibility = View.GONE
             nameText.visibility = View.GONE
             nicknameText.visibility = View.GONE
             ageText.visibility = View.GONE

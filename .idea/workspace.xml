@@ -24,7 +24,7 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5_API_29" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CBL0218606000256" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -42,8 +42,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/aboutme/MainActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1071">
-              <caret line="83" column="44" selection-start-line="83" selection-start-column="44" selection-end-line="83" selection-end-column="44" />
+            <state relative-caret-position="71">
+              <caret line="67" column="44" selection-start-line="67" selection-start-column="44" selection-end-line="67" selection-end-column="44" />
               <folding>
                 <element signature="e#638#928#0" expanded="true" />
               </folding>
@@ -63,32 +63,59 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/aboutme/MyName.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="-65">
               <caret column="2" selection-start-column="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider selected="true" editor-type-id="android-designer2" />
           <provider editor-type-id="text-editor">
-            <state relative-caret-position="3893">
-              <caret line="229" selection-start-line="229" selection-end-line="229" />
+            <state relative-caret-position="56">
+              <caret line="187" column="16" selection-start-line="187" selection-start-column="16" selection-end-line="187" selection-end-column="16" />
+              <folding>
+                <element signature="e#1708#1723#0" expanded="true" />
+                <element signature="e#2043#2057#0" expanded="true" />
+                <element signature="e#2363#2383#0" expanded="true" />
+                <element signature="e#2667#2685#0" expanded="true" />
+                <element signature="e#2995#3019#0" expanded="true" />
+                <element signature="e#3298#3311#0" expanded="true" />
+                <element signature="e#3911#3929#0" expanded="true" />
+                <element signature="e#4239#4263#0" expanded="true" />
+                <element signature="e#4545#4561#0" expanded="true" />
+                <element signature="e#5164#5179#0" expanded="true" />
+                <element signature="e#5486#5507#0" expanded="true" />
+                <element signature="e#5789#5805#0" expanded="true" />
+                <element signature="e#6113#6135#0" expanded="true" />
+                <element signature="e#6416#6431#0" expanded="true" />
+                <element signature="e#6738#6759#0" expanded="true" />
+                <element signature="e#7040#7055#0" expanded="true" />
+                <element signature="e#7362#7383#0" expanded="true" />
+                <element signature="e#7666#7683#0" expanded="true" />
+                <element signature="e#8411#8425#0" expanded="true" />
+                <element signature="e#9721#9740#0" expanded="true" />
+              </folding>
             </state>
           </provider>
-          <provider selected="true" editor-type-id="android-designer2" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="20" column="55" lean-forward="true" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+            <state relative-caret-position="-58">
+              <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>message</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -97,16 +124,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/aboutme/MyName.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/aboutme/MainActivity.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="951" />
+    <option name="y" value="-9" />
     <option name="width" value="978" />
-    <option name="height" value="1039" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectId" id="1YQTb7FtrvgZ3F2Pz081KaR0XMR" />
   <component name="ProjectView">
@@ -114,13 +142,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="CBL0218606000256" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-03-06T07:10:22.734Z" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../android-kotlin-fundamentals-apps-master/exercise-4-data-binding-dpalmes1899" />
@@ -213,6 +243,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.044966444" />
@@ -226,12 +257,12 @@
       <window_info anchor="bottom" id="Run" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Logcat" order="1" />
       <window_info anchor="bottom" id="TODO" order="2" />
-      <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Android Profiler" order="3" />
       <window_info anchor="bottom" id="Debug" order="4" />
       <window_info active="true" anchor="bottom" id="Terminal" order="5" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Build" order="8" weight="0.04532578" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.18130311" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
@@ -274,16 +305,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/build/generated/source/apt/debug/com/example/android/aboutme/DataBinderMapperImpl.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/aboutme/MainActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="83" column="44" selection-start-line="83" selection-start-column="44" selection-end-line="83" selection-end-column="44" />
-          <folding>
-            <element signature="e#638#928#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -291,25 +312,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/aboutme/MainActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="67" column="44" selection-start-line="67" selection-start-column="44" selection-end-line="67" selection-end-column="44" />
+          <folding>
+            <element signature="e#638#928#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-58">
+          <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/aboutme/MyName.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-65">
           <caret column="2" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="3893">
-          <caret line="229" selection-start-line="229" selection-end-line="229" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="20" column="55" lean-forward="true" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="187" column="16" selection-start-line="187" selection-start-column="16" selection-end-line="187" selection-end-column="16" />
+          <folding>
+            <element signature="e#1708#1723#0" expanded="true" />
+            <element signature="e#2043#2057#0" expanded="true" />
+            <element signature="e#2363#2383#0" expanded="true" />
+            <element signature="e#2667#2685#0" expanded="true" />
+            <element signature="e#2995#3019#0" expanded="true" />
+            <element signature="e#3298#3311#0" expanded="true" />
+            <element signature="e#3911#3929#0" expanded="true" />
+            <element signature="e#4239#4263#0" expanded="true" />
+            <element signature="e#4545#4561#0" expanded="true" />
+            <element signature="e#5164#5179#0" expanded="true" />
+            <element signature="e#5486#5507#0" expanded="true" />
+            <element signature="e#5789#5805#0" expanded="true" />
+            <element signature="e#6113#6135#0" expanded="true" />
+            <element signature="e#6416#6431#0" expanded="true" />
+            <element signature="e#6738#6759#0" expanded="true" />
+            <element signature="e#7040#7055#0" expanded="true" />
+            <element signature="e#7362#7383#0" expanded="true" />
+            <element signature="e#7666#7683#0" expanded="true" />
+            <element signature="e#8411#8425#0" expanded="true" />
+            <element signature="e#9721#9740#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
