@@ -19,7 +19,7 @@ limitations under the License. -->
     <string name="number">Phone number</string>
     <string name="color">What is your favorite color?</string>
     <string name="course">What is your course?</string>
-    <string name="dream">When is your ultimate dream?</string>
+    <string name="dream">What is your ultimate dream?</string>
     <string name="crush">Who is your secret crush?</string>
     <string name="message">What is your message for me?</string>
     <string name="enter_name">Enter Name</string>
@@ -32,4 +32,5 @@ limitations under the License. -->
     <string name="enter_dream">Enter Dream</string>
     <string name="enter_crush">Enter Name of Crush</string>
     <string name="done">Done</string>
+    <string name="thank_you">/nThank you for answering!</string>
 </resources>

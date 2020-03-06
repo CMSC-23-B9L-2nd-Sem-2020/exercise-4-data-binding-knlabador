@@ -41,8 +41,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
         binding.doneButton.setOnClickListener {
-            addNickname(it)
+            showUserInfo(it)
         }
+
         binding.myName = myName
 
     }
@@ -50,13 +51,46 @@ class MainActivity : AppCompatActivity() {
     /**
      * Click handler for the Done button.
      */
-    private fun addNickname(view: View) {
+    private fun showUserInfo(view: View) {
         binding.apply {
             myName?.name = nameEdit.text.toString()
+            myName?.nickname = nicknameEdit.text.toString()
+            myName?.age = ageEdit.text.toString()
+            myName?.birthday = birthdayEdit.text.toString()
+            myName?.number = numberEdit.text.toString()
+            myName?.color = colorEdit.text.toString()
+            myName?.course = courseEdit.text.toString()
+            myName?.dream = dreamEdit.text.toString()
+            myName?.crush = crushEdit.text.toString()
+            myName?.message = messageEdit.text.toString()
             invalidateAll()
-//            nicknameEdit.visibility = View.GONE
-//            doneButton.visibility = View.GONE
-//            nameText.visibility = View.VISIBLE
+
+            nameText.visibility = View.GONE
+            nicknameText.visibility = View.GONE
+            ageText.visibility = View.GONE
+            birthdayText.visibility = View.GONE
+            numberText.visibility = View.GONE
+            colorText.visibility = View.GONE
+            courseText.visibility = View.GONE
+            dreamText.visibility = View.GONE
+            crushText.visibility = View.GONE
+            messageText.visibility = View.GONE
+            nameEdit.visibility = View.GONE
+            nicknameEdit.visibility = View.GONE
+            ageEdit.visibility = View.GONE
+            birthdayEdit.visibility = View.GONE
+            numberEdit.visibility = View.GONE
+            colorEdit.visibility = View.GONE
+            courseEdit.visibility = View.GONE
+            dreamEdit.visibility = View.GONE
+            crushEdit.visibility = View.GONE
+            messageEdit.visibility = View.GONE
+            doneButton.visibility = View.GONE
+
+            userName.visibility = View.VISIBLE
+            userNickname.visibility = View.VISIBLE
+            userAge.visibility = View.VISIBLE
+            thanksText.visibility = View.VISIBLE
         }
 
         // Hide the keyboard.
